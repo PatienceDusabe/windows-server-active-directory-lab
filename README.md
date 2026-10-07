@@ -48,7 +48,7 @@ The lab is being built using Proxmox virtualization.
 | Server            | Windows Server   |
 | Domain Controller | DC01             |
 | Domain            | `lab.local`      |
-| DC01 IP           | `192.168.60.148` |
+| DC01 IP           | `192.168.61.253` |
 | Subnet            | `255.255.254.0`  |
 | Gateway           | `192.168.60.1`   |
 | DNS               | `8.8.8.8`        |
